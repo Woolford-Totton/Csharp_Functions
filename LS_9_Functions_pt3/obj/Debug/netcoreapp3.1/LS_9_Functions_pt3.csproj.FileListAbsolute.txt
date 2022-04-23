@@ -1,0 +1,14 @@
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.exe
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.deps.json
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.runtimeconfig.json
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.runtimeconfig.dev.json
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.dll
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\bin\Debug\netcoreapp3.1\LS_9_Functions_pt3.pdb
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.AssemblyInfoInputs.cache
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.AssemblyInfo.cs
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.csproj.CoreCompileInputs.cache
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.dll
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.pdb
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.genruntimeconfig.cache
+C:\Users\bwoolford\source\repos\LS_9_Functions_pt3\obj\Debug\netcoreapp3.1\LS_9_Functions_pt3.csproj.AssemblyReference.cache
